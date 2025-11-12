@@ -28,15 +28,18 @@
 
 ---
 
-## 📊 GitHub Stats
-![Manojkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkumar191&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumar191&layout=compact&theme=tokyonight)
+## 🔍 Current Focus & Interests
+- 🌐 Enhancing my **frontend & backend development** skills  
+- ⚙️ Exploring **API integration** and **database connectivity**  
+- 🧠 Building small projects to apply my learning  
+- 💼 Preparing for **internship opportunities** in Web Development  
+- 📚 Interested in **AI-powered web applications** in the future  
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumar191)
-📫 **Email:** *(add your email here if you want)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumar191)  
+📫 **Email:** [manojthangaraj191@gmail.com](mailto:manojthangaraj191@gmail.com)
 
 ---
 
