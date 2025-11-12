@@ -1,9 +1,7 @@
-<!-- ✨ Animated Intro (All lines appear at same time on different lines) -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=1000&color=00C2CB&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👋+Hey+there!+I'm+MANOJKUMAR+T;🎓+Computer+Science+and+Engineering+Student;💻+Aspiring+Web+Developer" alt="Typing SVG" />
-  </a>
-</p>
+<!-- 💫 Stylish Static Intro (All lines visible at once) -->
+<h1 align="center">👋 Hey there! I'm <span style="color:#00C2CB;">MANOJKUMAR T</span></h1>
+<h3 align="center" style="color:#FF4B91;">🎓 Computer Science and Engineering Student</h3>
+<h3 align="center" style="color:#00BFA6;">💻 Aspiring Web Developer</h3>
 
 🎓 **Computer Science and Engineering Student**  
 🏫 *M.Kumarasamy College of Engineering*  
