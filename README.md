@@ -36,7 +36,6 @@
 - ⚙️ Exploring **API integration** and **database connectivity**  
 - 🧠 Building small projects to apply my learning  
 - 💼 Preparing for **internship opportunities** in Web Development  
-- 📚 Interested in **AI-powered web applications** in the future  
 
 ---
 
@@ -47,6 +46,6 @@
 ---
 
 ## ✨ Quote
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+> “Talk is cheap. Show me the code.” — Linus Torvalds  
 
 ⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and projects.* 🚀
