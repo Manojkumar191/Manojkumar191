@@ -1,5 +1,9 @@
-<!-- Typing animation for your name -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+MANOJKUMAR+T;Computer+Science+and+Engineering+Student;Web+Developer+%7C+Tech+Learner+%7C+Problem+Solver)](https://git.io/typing-svg)
+<!-- ✨ Animated Typing Intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF4B91&center=true&vCenter=true&width=750&lines=👋+Hey+there!+I'm+MANOJKUMAR+T;🎓+Computer+Science+and+Engineering+Student;💻+Aspiring+Web+Developer+and+Tech+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
 🎓 **Computer Science and Engineering Student**  
 🏫 *M.Kumarasamy College of Engineering*  
