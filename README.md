@@ -4,7 +4,7 @@
 </p>
 
 🎓 **Computer Science and Engineering Student**  
-🏫 *M.Kumarasamy College of Engineering*  
+🏫 *M.Kumarasamy College of Engineering,Karur*  
 💡 Passionate about building impactful web applications and exploring new technologies.  
 
 ---
