@@ -11,15 +11,15 @@
 
 ## 🌱 About Me
 - 🔭 I’m currently learning **Web Development**
-- 💻 I love working with **Java, HTML, CSS, JavaScript, and MySQL**
+- 💻 I love working with **Java, HTML, CSS, JavaScript, php and MySQL**
 - 🚀 I enjoy solving real-world problems using clean and efficient code
 - 💬 Ask me about **frontend or backend development**
 - 🎯 Goal: To become a **Full Stack Developer**
 
 ---
 
-🛠️ Tech Stack
-💻 Programming Languages
+##🛠️ Tech Stack
+##💻 Programming Languages
 
 <p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
 
